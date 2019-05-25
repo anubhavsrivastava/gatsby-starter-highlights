@@ -42,8 +42,8 @@ Edit `config.js` to put up your details
 module.exports = {
   siteTitle: 'Gatsby Starter highlights', // <title>
   ...
-  authorName: 'Anubhav Srivastava',
-  heading: 'Web Developer',
+  heading: 'Anubhav',
+  subHeading: 'Web Developer',
   // social
   socialLinks: [
     {
