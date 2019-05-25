@@ -141,6 +141,7 @@ const IndexPage = () => (
             </div>
           </div>
         </form>
+        <Link to="/Elements"> Check out Elements page</Link>
       </div>
       <Footer />
     </section>
